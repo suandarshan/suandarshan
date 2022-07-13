@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suandarshan
 - 👀 I’m interested in Devops
-- 🌱 I’m currently learning maven 
+- 🌱 I’m currently learning MAVEN 
 - 💞️ I’m looking to collaborate on Devops
 - 📫 Reach me via Linked in @suandarshan
 
